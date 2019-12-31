@@ -7,6 +7,7 @@ sys.path.insert(0, 'src/')
 
 import Image
 from src.utils import *
+from PIL import Image
 
 
 def contains_nudity(image_path):
